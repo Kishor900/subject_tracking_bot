@@ -4,7 +4,7 @@ This is a computer vision project where a vehicle with robotics part follows a s
 There are two parts of this project
 
 1. Robotics
-2.Computer Vision
+2. Computer Vision
 
 # Robotics
 Components Required
