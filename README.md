@@ -1,4 +1,4 @@
-# subject_tracking_bot
+# Subject Tracking Bot
 This a computer vision project where a vehichle with robotics part follows you
 
 There are two parts of this project
