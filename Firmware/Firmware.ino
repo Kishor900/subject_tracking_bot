@@ -9,12 +9,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "ddtY8o4vzyb3kJR_lZ-hprVsTVbsc9If";
+char auth[] = "";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Kishor";
-char pass[] = "fightclub3";
+char ssid[] = "";
+char pass[] = "";
 // Pin Definitions
 #define DCMOTORDRIVERL298_PIN_INT1  5
 #define DCMOTORDRIVERL298_PIN_ENB 14
